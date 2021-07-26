@@ -7,3 +7,9 @@ I hope I have a good time here!
 Timothy has edited the document.
 
 Testing 1,2,3
+
+Test test test test test test
+try coding now
+dont know what to type anymore.
+
+End of file.
